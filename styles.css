@@ -1,0 +1,46 @@
+body {
+
+  background-color: lightsteelblue;
+}
+
+h1 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 600;
+  font-style: bold;
+  color: navy;
+  text-align: center;
+  font-size: 40px;
+  line-height: 50px;
+  text-shadow: 10px;
+
+}
+
+h2 {
+
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  color: midnightblue;
+  font-size: 20px;
+  line-height: 50px;
+
+
+}
+
+
+p { 
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal; 
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  line-height: 30px;
+
+}
+
+img {
+
+  align-content: center;
+}
+
