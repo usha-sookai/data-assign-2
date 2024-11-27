@@ -1,6 +1,8 @@
 body {
 
   background-color: lightsteelblue;
+  margin-left: 35px;
+  margin-right: 35px;
 }
 
 h1 {
@@ -10,37 +12,59 @@ h1 {
   color: navy;
   text-align: center;
   font-size: 40px;
-  line-height: 50px;
+  line-height: 40px;
   text-shadow: 10px;
+  margin-left: 35px;
+  margin-right: 35px;
 
 }
 
 h2 {
-
   font-family: "Ubuntu", sans-serif;
-  font-weight: 100;
+  font-weight: 300;
   font-style: normal;
   color: midnightblue;
-  font-size: 20px;
-  line-height: 50px;
-
-
+  font-size: 15px;
+  line-height: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
+figcaption { 
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+  Color: black;
+  font-size: 20px;
+  line-height: 25px;
+  margin-left: 100px;
+  margin-right: 100px;
+}  
+
+h3 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  Color: black;
+  font-size: 25px;
+  line-height: 25px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
 
 p { 
   font-family: "Ubuntu", sans-serif;
-  font-weight: 500;
+  font-weight: 200;
   font-style: normal; 
   color: black;
-  font-size: 20px;
-  text-align: center;
-  line-height: 30px;
+  font-size: 15px;
+  text-align: left;
+  line-height: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
 
 }
 
-img {
 
-  align-content: center;
 }
 
